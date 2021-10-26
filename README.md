@@ -1,2 +1,2 @@
 # freecodecamp.org
-JavaScript Algorithms and Data Structures Course
+JavaScript Algorithms and Data Structures Course 
